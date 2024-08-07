@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://taculu.github.io/sitemap.html.gz
+Sitemap: https://taculu.github.io/app/sitemap.html.gz
+Sitemap: https://taculu.github.io/assets/sitemap.html.gz
+Sitemap: https://taculu.github.io/css/sitemap.html.gz
+Sitemap: https://taculu.github.io/includes/sitemap.html.gz
+Sitemap: https://taculu.github.io/item/sitemap.html.gz
+Sitemap: https://taculu.github.io/src/sitemap.html.gz
